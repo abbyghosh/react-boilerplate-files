@@ -2,7 +2,7 @@
 
 ## Steps
 1. Delete
-- App.css
-- logo.svg
+  - App.css
+  - logo.svg
 
-2. Paste the file in src/
+2. Paste the repo files to src/
