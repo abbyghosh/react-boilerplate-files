@@ -1,7 +1,8 @@
 # react-boilerplate-files
 
-## Delete
-1. App.css
-2. logo.svg
+## Steps
+1. Delete
+- App.css
+- logo.svg
 
-## Paste the file in src/
+2. Paste the file in src/
